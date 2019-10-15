@@ -30,7 +30,7 @@
 
     <properties>
         <!-- TODO: Ungrade camel.version to same version as camel cartridge -->
-        <camel.version>2.1.0</camel.version>
+        <camel.version>2.24.2</camel.version>
     </properties>
 
 
