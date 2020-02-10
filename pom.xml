@@ -27,7 +27,7 @@
 
     <properties>
         <camel.version>2.4.0</camel.version>
-        <spring.version>2.5.6</spring.version>
+        <spring.version>5.2.3.RELEASE</spring.version>
     </properties>
 
     <groupId>org.milyn</groupId>
