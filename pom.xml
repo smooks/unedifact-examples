@@ -33,7 +33,7 @@
     <groupId>org.milyn</groupId>
     <artifactId>unedifact-examples</artifactId>
     <name>Milyn Smooks UN/EDIFACT Examples</name>
-    <version>1.5-SNAPSHOT</version> <!-- base pom version - do not remove this comment -->
+    <version>1.7.1</version> <!-- base pom version - do not remove this comment -->
     <packaging>pom</packaging>
 
     <modules>
